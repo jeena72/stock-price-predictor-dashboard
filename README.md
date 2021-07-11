@@ -1,2 +1,2 @@
-# stock-price-predictor-sentiments-included
+# stock-price-predictor-dashboard
 Capstone | Project | Udacity - Data Scientist Nanodegree 
